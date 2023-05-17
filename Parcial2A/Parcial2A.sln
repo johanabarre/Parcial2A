@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcial2A.Entities", "Parcial2A.Entities\Parcial2A.Entities.csproj", "{67A3A072-1356-4A4E-887F-FF817F0DD89F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcia2A.DataAccess", "Parcia2A.DataAccess\Parcia2A.DataAccess.csproj", "{72A5E472-910F-447A-BB15-24A6B66E0496}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67A3A072-1356-4A4E-887F-FF817F0DD89F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A3A072-1356-4A4E-887F-FF817F0DD89F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A3A072-1356-4A4E-887F-FF817F0DD89F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A3A072-1356-4A4E-887F-FF817F0DD89F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72A5E472-910F-447A-BB15-24A6B66E0496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A5E472-910F-447A-BB15-24A6B66E0496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A5E472-910F-447A-BB15-24A6B66E0496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A5E472-910F-447A-BB15-24A6B66E0496}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3CA4758-38C8-480C-A84B-C17950261934}
+	EndGlobalSection
+EndGlobal

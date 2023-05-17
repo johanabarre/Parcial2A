@@ -1,0 +1,14 @@
+C:\Users\yohan\source\repos\Parcial2A\Parcial2A.Entities\bin\Debug\Parcial2A.Entities.dll.config
+C:\Users\yohan\source\repos\Parcial2A\Parcial2A.Entities\bin\Debug\Parcial2A.Entities.dll
+C:\Users\yohan\source\repos\Parcial2A\Parcial2A.Entities\bin\Debug\Parcial2A.Entities.pdb
+C:\Users\yohan\source\repos\Parcial2A\Parcial2A.Entities\bin\Debug\EntityFramework.dll
+C:\Users\yohan\source\repos\Parcial2A\Parcial2A.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yohan\source\repos\Parcial2A\Parcial2A.Entities\bin\Debug\EntityFramework.xml
+C:\Users\yohan\source\repos\Parcial2A\Parcial2A.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yohan\source\repos\Parcial2A\Parcial2A.Entities\obj\Debug\Parcial2A.Entities.csproj.AssemblyReference.cache
+C:\Users\yohan\source\repos\Parcial2A\Parcial2A.Entities\obj\Debug\Parcial2A.Entities.csproj.CoreCompileInputs.cache
+C:\Users\yohan\source\repos\Parcial2A\Parcial2A.Entities\obj\Debug\Parcial2A.Entities.csproj.CopyComplete
+C:\Users\yohan\source\repos\Parcial2A\Parcial2A.Entities\obj\Debug\Parcial2A.Entities.dll
+C:\Users\yohan\source\repos\Parcial2A\Parcial2A.Entities\obj\Debug\Parcial2A.Entities.pdb
+C:\Users\yohan\source\repos\Parcial2A\Parcial2A.Entities\obj\Debug\Parcial2A.Entities.Migrations.Inicio.resources
+C:\Users\yohan\source\repos\Parcial2A\Parcial2A.Entities\obj\Debug\Parcial2A.Entities.csproj.GenerateResource.cache
