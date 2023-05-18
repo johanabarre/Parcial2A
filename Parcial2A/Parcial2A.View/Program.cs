@@ -16,7 +16,7 @@ namespace Parcial2A.View
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmControlDosis());
+            Application.Run(new frmPersona());
         }
     }
 }

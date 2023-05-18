@@ -62,16 +62,34 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmAgregarPersona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarPersona.Designer.cs">
+      <DependentUpon>frmAgregarPersona.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmControlDosis.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmControlDosis.Designer.cs">
       <DependentUpon>frmControlDosis.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmPersona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersona.Designer.cs">
+      <DependentUpon>frmPersona.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAgregarPersona.resx">
+      <DependentUpon>frmAgregarPersona.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmControlDosis.resx">
       <DependentUpon>frmControlDosis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPersona.resx">
+      <DependentUpon>frmPersona.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

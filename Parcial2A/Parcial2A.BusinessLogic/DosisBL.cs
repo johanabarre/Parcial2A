@@ -10,14 +10,14 @@ namespace Parcial2A.BusinessLogic
 {
     public class DosisBL
     {
-        private static PersonaBL _instance;
+        private static DosisBL _instance;
 
-        public static PersonaBL Instance
+        public static DosisBL Instance
         {
             get
             {
                 if (_instance == null)
-                    _instance = new PersonaBL();
+                    _instance = new DosisBL();
 
                 return _instance;
             }

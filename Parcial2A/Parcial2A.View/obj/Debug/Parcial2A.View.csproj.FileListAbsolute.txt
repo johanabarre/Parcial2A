@@ -22,3 +22,5 @@ C:\Users\yohan\Desktop\Parcia2A\Parcial2A\Parcial2A.View\bin\Debug\Parcia2A.Data
 C:\Users\yohan\Desktop\Parcia2A\Parcial2A\Parcial2A.View\obj\Debug\Parcial2A.View.csproj.CopyComplete
 C:\Users\yohan\Desktop\Parcia2A\Parcial2A\Parcial2A.View\obj\Debug\Parcial2A.View.exe
 C:\Users\yohan\Desktop\Parcia2A\Parcial2A\Parcial2A.View\obj\Debug\Parcial2A.View.pdb
+C:\Users\yohan\Desktop\Parcia2A\Parcial2A\Parcial2A.View\obj\Debug\Parcial2A.View.frmAgregarPersona.resources
+C:\Users\yohan\Desktop\Parcia2A\Parcial2A\Parcial2A.View\obj\Debug\Parcial2A.View.frmPersona.resources
