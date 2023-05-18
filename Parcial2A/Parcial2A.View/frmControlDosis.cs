@@ -16,7 +16,6 @@ namespace Parcial2A.View
     public partial class frmControlDosis : Form
     {
 
-        int id = 0;
         private List<Persona> _listado;
 
         public frmControlDosis()
@@ -26,6 +25,8 @@ namespace Parcial2A.View
         }
         public frmControlDosis(Persona entity)
         {
+            int id = 0;
+
             InitializeComponent();
             id = entity.PersonaId;
 
@@ -34,7 +35,7 @@ namespace Parcial2A.View
             textBox3.Text = entity.Genero;
 
             UpdateCombo();
-            comboBox1.SelectedValue = entity.Doses;
+            comboBox1.SelectedValue = entity.DosisId;
         }
         private void UpdateCombo()
         {
