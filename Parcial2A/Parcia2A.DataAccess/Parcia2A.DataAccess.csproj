@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AppContext\AppDBContext.cs" />
+    <Compile Include="DosisDAL.cs" />
     <Compile Include="PeronaDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

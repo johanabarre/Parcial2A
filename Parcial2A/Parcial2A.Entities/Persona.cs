@@ -18,12 +18,10 @@ namespace Parcial2A.Entities
         public string Edad { get; set; }
         [Required]
         public string Genero { get; set; }
+
         [Required]
         public int DosisId { get; set; }
-
-
-        public virtual ICollection<Dosis> Doses { get; set; }
-
+        public virtual Dosis Doses { get; set; }
 
     }
 }

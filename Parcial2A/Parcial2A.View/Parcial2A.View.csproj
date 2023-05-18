@@ -62,8 +62,17 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmControlDosis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmControlDosis.Designer.cs">
+      <DependentUpon>frmControlDosis.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmControlDosis.resx">
+      <DependentUpon>frmControlDosis.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -86,6 +95,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Parcial2A.BusinessLogic\Parcial2A.BusinessLogic.csproj">
+      <Project>{b5a3d4dd-12a7-454e-a2fb-278e0bdedb6d}</Project>
+      <Name>Parcial2A.BusinessLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Parcial2A.Entities\Parcial2A.Entities.csproj">
+      <Project>{67a3a072-1356-4a4e-887f-ff817f0dd89f}</Project>
+      <Name>Parcial2A.Entities</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

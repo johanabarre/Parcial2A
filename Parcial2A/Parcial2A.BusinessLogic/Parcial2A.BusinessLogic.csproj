@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="DosisBL.cs" />
     <Compile Include="PersonaBL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

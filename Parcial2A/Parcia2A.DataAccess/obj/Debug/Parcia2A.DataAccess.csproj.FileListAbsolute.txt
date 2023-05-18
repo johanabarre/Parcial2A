@@ -1,0 +1,15 @@
+C:\Users\yohan\Desktop\Parcia2A\Parcial2A\Parcia2A.DataAccess\bin\Debug\Parcia2A.DataAccess.dll.config
+C:\Users\yohan\Desktop\Parcia2A\Parcial2A\Parcia2A.DataAccess\bin\Debug\Parcia2A.DataAccess.dll
+C:\Users\yohan\Desktop\Parcia2A\Parcial2A\Parcia2A.DataAccess\bin\Debug\Parcia2A.DataAccess.pdb
+C:\Users\yohan\Desktop\Parcia2A\Parcial2A\Parcia2A.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\yohan\Desktop\Parcia2A\Parcial2A\Parcia2A.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yohan\Desktop\Parcia2A\Parcial2A\Parcia2A.DataAccess\bin\Debug\Parcial2A.Entities.dll
+C:\Users\yohan\Desktop\Parcia2A\Parcial2A\Parcia2A.DataAccess\bin\Debug\Parcial2A.Entities.pdb
+C:\Users\yohan\Desktop\Parcia2A\Parcial2A\Parcia2A.DataAccess\bin\Debug\Parcial2A.Entities.dll.config
+C:\Users\yohan\Desktop\Parcia2A\Parcial2A\Parcia2A.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\yohan\Desktop\Parcia2A\Parcial2A\Parcia2A.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yohan\Desktop\Parcia2A\Parcial2A\Parcia2A.DataAccess\obj\Debug\Parcia2A.DataAccess.csproj.AssemblyReference.cache
+C:\Users\yohan\Desktop\Parcia2A\Parcial2A\Parcia2A.DataAccess\obj\Debug\Parcia2A.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\yohan\Desktop\Parcia2A\Parcial2A\Parcia2A.DataAccess\obj\Debug\Parcia2A.DataAccess.csproj.CopyComplete
+C:\Users\yohan\Desktop\Parcia2A\Parcial2A\Parcia2A.DataAccess\obj\Debug\Parcia2A.DataAccess.dll
+C:\Users\yohan\Desktop\Parcia2A\Parcial2A\Parcia2A.DataAccess\obj\Debug\Parcia2A.DataAccess.pdb

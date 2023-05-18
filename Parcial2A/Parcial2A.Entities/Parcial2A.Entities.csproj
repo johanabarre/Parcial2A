@@ -53,9 +53,9 @@
   <ItemGroup>
     <Compile Include="AppContext\AppDBContext.cs" />
     <Compile Include="Dosis.cs" />
-    <Compile Include="Migrations\202305172348145_Inicio.cs" />
-    <Compile Include="Migrations\202305172348145_Inicio.designer.cs">
-      <DependentUpon>202305172348145_Inicio.cs</DependentUpon>
+    <Compile Include="Migrations\202305180159017_Inicio.cs" />
+    <Compile Include="Migrations\202305180159017_Inicio.designer.cs">
+      <DependentUpon>202305180159017_Inicio.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Persona.cs" />
@@ -66,8 +66,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202305172348145_Inicio.resx">
-      <DependentUpon>202305172348145_Inicio.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202305180159017_Inicio.resx">
+      <DependentUpon>202305180159017_Inicio.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
