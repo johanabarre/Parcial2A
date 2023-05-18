@@ -68,12 +68,6 @@
     <Compile Include="frmAgregarPersona.Designer.cs">
       <DependentUpon>frmAgregarPersona.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmControlDosis.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmControlDosis.Designer.cs">
-      <DependentUpon>frmControlDosis.cs</DependentUpon>
-    </Compile>
     <Compile Include="frmPersona.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -84,9 +78,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmAgregarPersona.resx">
       <DependentUpon>frmAgregarPersona.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmControlDosis.resx">
-      <DependentUpon>frmControlDosis.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmPersona.resx">
       <DependentUpon>frmPersona.cs</DependentUpon>
