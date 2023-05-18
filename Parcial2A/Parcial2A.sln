@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcial2A.Entities", "Parci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcia2A.DataAccess", "Parcia2A.DataAccess\Parcia2A.DataAccess.csproj", "{72A5E472-910F-447A-BB15-24A6B66E0496}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcial2A.BusinessLogic", "Parcial2A.BusinessLogic\Parcial2A.BusinessLogic.csproj", "{B5A3D4DD-12A7-454E-A2FB-278E0BDEDB6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcial2A.View", "Parcial2A.View\Parcial2A.View.csproj", "{CE212208-62B7-4D4E-B8F5-D118946F1973}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{72A5E472-910F-447A-BB15-24A6B66E0496}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72A5E472-910F-447A-BB15-24A6B66E0496}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72A5E472-910F-447A-BB15-24A6B66E0496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A3D4DD-12A7-454E-A2FB-278E0BDEDB6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A3D4DD-12A7-454E-A2FB-278E0BDEDB6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A3D4DD-12A7-454E-A2FB-278E0BDEDB6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A3D4DD-12A7-454E-A2FB-278E0BDEDB6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE212208-62B7-4D4E-B8F5-D118946F1973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE212208-62B7-4D4E-B8F5-D118946F1973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE212208-62B7-4D4E-B8F5-D118946F1973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE212208-62B7-4D4E-B8F5-D118946F1973}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

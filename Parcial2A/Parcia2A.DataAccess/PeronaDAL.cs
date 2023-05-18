@@ -33,7 +33,7 @@ namespace Parcia2A.DataAccess
             List<Persona> result = null;
             using (AppDBContext _context = new AppDBContext())
             {
-                result = _context.Personas.ToList();
+                result = _context.Personas.Include(x => x.Doses).ToList();
             }
 
             return result;
